@@ -1,0 +1,13 @@
+Teste 1
+Acessar o site
+Button Click: Novo Cadastro
+Preencher o campo Nome com o seguinte valor: Vinicius Henrique
+Preencher o campo e-mail com o seguinte valor: teste.teste.com
+O sistema deve exibir um aviso informando que esse e-mail não é valido, favor seguir o formato: nome@email.algo
+
+Teste 2
+Acessar o site
+Button Click: Novo Cadastro
+Preencher o campo Nome com o seguinte valor: Vinicius Henrique
+Preencher o campo e-mail com o seguinte valor: teste@teste.com
+O sistema deve exibir um aviso informando que esse e-mail já está sendo utilizado e perguntar para o usuario se ele deseja ser redirecionado para a tela de login

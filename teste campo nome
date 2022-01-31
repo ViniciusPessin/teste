@@ -1,0 +1,23 @@
+Teste 1
+Acessar o site
+Button Click: Novo Cadastro
+Preencher o campo Nome com o seguinte valor: teste teste teste teste teste teste teste teste teste teste
+O sistema deve exibir um aviso informando que o campo nome aceita no maximo 50 caracteres
+
+Teste 2
+Acessar o site
+Button Click: Novo Cadastro
+Preencher o campo Nome com o seguinte valor: teste teste teste teste teste teste teste teste te
+O sistema deve permitir o preenchimento dos outros campos, visto que o campo nome está preenchido com 50 caracteres
+
+Teste 3
+Acessar o site
+Button Click: Novo Cadastro
+Preencher o campo Nome com o seguinte valor: Viniciu$ Henrique
+O sistema deve exibir um aviso, informando que o campo nome não aceita caracteres especiais e numericos
+
+Teste 4
+Acessar o site
+Button Click: Novo Cadastro
+Preencher o campo Nome com o seguinte valor: Viniciu5 Henrique
+O sistema deve exibir um aviso, informando que o campo nome não aceita caracteres especiais e numericos

@@ -1,0 +1,17 @@
+Teste 1
+Acessar o site
+Button Click: Novo Cadastro
+Preencher o campo Nome com o seguinte valor: Vinicius Henrique
+Preencher o campo e-mail com o seguinte valor: teste@teste.com.br
+Preencher o campo senha com o seguinte valor: a@1234
+Preencher o campo repetir senha com o seguinte valor: a@12345
+O sistema deve exibir uma mensagem, informando que o campo senha e repetir senha devem conter os mesmos dados
+
+Teste 2
+Acessar o site
+Button Click: Novo Cadastro
+Preencher o campo Nome com o seguinte valor: Vinicius Henrique
+Preencher o campo e-mail com o seguinte valor: teste@teste.com
+Preencher o campo senha com o seguinte valor: a1234
+O sistema deve exibir uma mensagem, informando "Lembre-se que deverá ser informado no mínimo 4 caracteres (Ao menos uma letra, um caractere especial e um número)"
+
